@@ -2230,7 +2230,7 @@ export default function App() {
           
           <p className="mt-2.5 text-[11px] leading-relaxed text-slate-200 font-sans bg-amber-950/30 p-2.5 rounded-xl border border-amber-500/20">
             {lang === 'sinhala'
-              ? "නොමිලේ ලබාදෙන මෙම සේවාව පිළිබඳ ඔබගේ සත්‍ය අදහස සහ ප්‍රතිචාරය (හොඳ හෝ නරක, හරි හෝ වැරදි) වාර්තාව ලබාගැනීමට පෙර හෝ පසුව අප වෙත ලබාදීමට කාරුණික වන්න."
+              ? "නොමිලේ ලබාදෙන මෙම සේවාව පිළිබඳ ඔබගේ සත්‍ය අදහස සහ ප්‍රතිචාරය (හොඳ හෝ නරක, හරි හෝ වැරදි) අප වෙත ලබාදීමට කාරුණික වන්න."
               : "Please be kind enough to provide your honest opinion and feedback (good or bad, right or wrong) about this free service before or after generating your report."
             }
           </p>
